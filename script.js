@@ -14,7 +14,7 @@ noBtn.addEventListener("mouseover", () => {
 
 // Aksi saat tombol YES diklik
 yesBtn.addEventListener("click", () => {
-    question.innerHTML = "Yeay! I Love You! ❤️";
+    question.innerHTML = "Yeay! Terima Kasih! ❤️";
     gif.src = "media.giphy.com"; // Ganti ke GIF bahagia
     noBtn.style.display = "none";
 });
