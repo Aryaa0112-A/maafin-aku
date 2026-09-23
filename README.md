@@ -1,2 +1,2 @@
-# Tembak-Crush-Kalian-Pakai-Website-Ini
-Untuk Tembak Crush, Biar Kalian Punya Pacar
+# minta-maaf-pakai-ini
+Untuk minta maaf ke pasangan mu
